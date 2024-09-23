@@ -43,7 +43,7 @@ int main()
         cout << "треугольник не существет" << endl;
     }*/
     //60г
-    double x, y;
+    /*double x, y;
     string D;
     float res;
     cout << "введите x: " << endl;
@@ -60,5 +60,6 @@ int main()
         res = sqrt(abs(x)) - 1;
         cout << "в таком случе U = " << res << endl;
     }
+    */
 }
 
